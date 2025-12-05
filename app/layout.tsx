@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: "Souad El Maazouzi | Développeuse & Data Scientist",
   description:
     "Portfolio de Souad El Maazouzi - Développeuse en informatique et étudiante en Master Sciences des Données",
-  generator: "v0.app",
+  generator: "souad",
   icons: {
     icon: [
       {
